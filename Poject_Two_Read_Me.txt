@@ -1,0 +1,2 @@
+additional four objects that were created are called tree, monumnet, pointing tower, and chess piece.
+Three of the objects are in the front gate and the last object is a red tower that is as tall as the middle tower.
